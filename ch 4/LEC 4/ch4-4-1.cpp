@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-class Diamondssssss
+class Diamonds
 {
 private:
 int comp_id;
@@ -54,7 +54,7 @@ cout << "company_ceo :" << this->comp_ceo << endl;
 };
 int main()
 {
-int n, i;
+int n,i;
 cout << "Enter Number of company : ";
 cin >> n;
 Diamond d1[n];
